@@ -1,5 +1,6 @@
 # Digital-Document-Verification-using-Blockchain
-Digital Document Verification using Blockchain and IPFS. This is the Final year project for Engineering 2020–24 SSGMCE.
+Digital Document Verification using Blockchain and IPFS.
+
 ## Introduction
 The students graduating either choose to continue their studies or go hunting for jobs. In both cases, they are required to submit their certificates. A couple of times students find that they have lost the certificates and they need to reapply, which is a long procedure and has to go through multiple verifications, taking a lot of time. Also, considering the increase in forgery of documents, the organization to which the certificates are submitted finds it difficult to verify the certificates. There is no effective way to check for forgery.
 ## Aim
